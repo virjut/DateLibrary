@@ -1,7 +1,3 @@
 is_global = true
 build_property.RootNamespace = DateLibrary
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\eetu\Source\Repos\DateLibrary\DateLibrary\
-=======
-build_property.ProjectDir = C:\Users\eetu\source\repos\DateLibrary\DateLibrary\
->>>>>>> main
