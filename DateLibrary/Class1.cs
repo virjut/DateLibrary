@@ -19,6 +19,21 @@ namespace DateLibrary
 
         }
 
+        public static void Opiskeluaika(DateTime aloitusAika, double opiskeluAika)
+        {
+            TimeSpan opiskeltuAika = DateTime.Now - aloitusAika;
+
+            if (opiskeltuAika.TotalDays > opiskeluAika)
+            {
+                Console.WriteLine("Aiheen opiskelu on myöhässä!");
+            }
+            else
+            {
+                Console.WriteLine("Aiheen opiskelu etenee ajallaan.");
+            }
+            
+        }
+
        
     }
 }
