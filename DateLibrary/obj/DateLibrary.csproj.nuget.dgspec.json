@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eetu\\Source\\Repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj": {}
+    "C:\\Users\\JuttaVirta\\source\\repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eetu\\Source\\Repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj": {
+    "C:\\Users\\JuttaVirta\\source\\repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eetu\\Source\\Repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\JuttaVirta\\source\\repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj",
         "projectName": "DateLibrary",
-        "projectPath": "C:\\Users\\eetu\\Source\\Repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj",
-        "packagesPath": "C:\\Users\\eetu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eetu\\Source\\Repos\\DateLibrary\\DateLibrary\\obj\\",
+        "projectPath": "C:\\Users\\JuttaVirta\\source\\repos\\DateLibrary\\DateLibrary\\DateLibrary.csproj",
+        "packagesPath": "C:\\Users\\JuttaVirta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuttaVirta\\source\\repos\\DateLibrary\\DateLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eetu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JuttaVirta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

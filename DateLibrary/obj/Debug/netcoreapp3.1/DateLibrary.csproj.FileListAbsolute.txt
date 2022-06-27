@@ -1,0 +1,10 @@
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\bin\Debug\netcoreapp3.1\DateLibrary.deps.json
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\bin\Debug\netcoreapp3.1\DateLibrary.dll
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\bin\Debug\netcoreapp3.1\DateLibrary.pdb
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\obj\Debug\netcoreapp3.1\DateLibrary.csproj.AssemblyReference.cache
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\obj\Debug\netcoreapp3.1\DateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\obj\Debug\netcoreapp3.1\DateLibrary.AssemblyInfoInputs.cache
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\obj\Debug\netcoreapp3.1\DateLibrary.AssemblyInfo.cs
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\obj\Debug\netcoreapp3.1\DateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\obj\Debug\netcoreapp3.1\DateLibrary.dll
+C:\Users\JuttaVirta\source\repos\DateLibrary\DateLibrary\obj\Debug\netcoreapp3.1\DateLibrary.pdb
